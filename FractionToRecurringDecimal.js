@@ -1,5 +1,5 @@
 
-/** 166.SubmissionDetail
+/** 166.Fraction to Recurring Decimal
  * @param {number} numerator
  * @param {number} denominator
  * @return {string}
